@@ -12,24 +12,6 @@ This project implements a traffic flow optimization system using Graph Neural Ne
 * Network visualization and training progress monitoring
 * Scalable to different network sizes
 
-# Project Structure
-traffic-flow-optimization/
-├── src/
-│   ├── __init__.py
-│   ├── models/
-│   │   ├── __init__.py
-│   │   ├── gnn.py
-│   │   └── optimizer.py
-│   ├── data/
-│   │   ├── __init__.py
-│   │   └── data_generator.py
-│   └── utils/
-│       ├── __init__.py
-│       └── visualization.py
-├── requirements.txt
-├── main.py
-├── README.md
-└── .gitignore
 
 # Requirements
 * torch>=1.9.0
